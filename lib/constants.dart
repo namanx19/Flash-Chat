@@ -22,7 +22,7 @@ const kInputFieldDecoration = InputDecoration(
   hintText: '',
   hintStyle: TextStyle(
     color: Colors.black,
-    fontSize: 16.0,
+    fontSize: 12.0,
     fontWeight: FontWeight.w300,
   ),
   contentPadding:
